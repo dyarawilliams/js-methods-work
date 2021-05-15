@@ -1,2 +1,71 @@
-# js-methods-work
+# JS Methods
 A short description of what the method does, how it works, it's time complexity, and give three examples of it in action!
+
+## map method
+The map method transforms an array by creating a new array of the elements and returns the results of the provided function on every element in the calling array. This method takes can take in up to three arguments the element, index, and array. The element param is required.
+
+- Time Complexity: 0(n)
+- 3 Examples: map.js
+
+## reduce method
+The reduce method executes a reducer function on each element of an array. This method can take in up to four arguments the accumulator, current value, current index, and the source array. The accumulator and currentValue is required.
+
+- Time Complexity: 0(n)
+- 3 Examples: reduce.js
+
+## filter method
+The filter method creates a new array with the elements that pass the given filter condiion as true.
+
+- Time Complexity: 0(n)
+- 3 Examples: filter.js
+
+## forEach method
+The forEach method executes a function for each element in the array.
+- Time Complexity: 0(n)
+- 3 Examples: forEach.js
+
+## sort method
+The sort method modifies the array by ordering the array and returns the sorted array. The default sort is ascending.
+- Time Complexity: 0(n log(n))
+- 3 Examples: sort.js
+
+## slice method
+The slice method returns a copy of the sub array between two indexes, start and end. The original array will not be modified.
+- Time Complexity: 0(n)
+- 3 Examples: slice.js
+
+## pop method
+The pop method deletes the last element of the array.
+- Time Complexity: 0(1)
+- 3 Examples: pop.js
+
+## shift method
+The shift method deletes the first element of the array.
+- Time Complexity: 0(n)
+- 3 Examples: shift.js
+
+## push method
+The push method adds a new element to the end of the array.
+- Time Complexity: 0(1)
+- 3 Examples: push.js
+
+## unshift method
+The unshift method adds a new element to the beginning of the array.
+- Time Complexity: 0(n)
+- 3 Examples: unshift.js
+
+## includes method
+The includes method 
+- Time Complexity: 0(1)
+- 3 Examples: includes.js
+
+## indexOf method
+The indexOf method returns the first index of the element that exists in the array, and if it does not exist return -1.
+- Time Complexity: 0(n)
+- 3 Examples: indexOf.js
+
+## every method
+The every method return a boolean value as true if all the items apply the given condiion, and false if not.
+- Time Complexity: 0(n)
+- 3 Examples: every.js
+
