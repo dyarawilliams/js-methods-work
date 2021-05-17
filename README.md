@@ -27,7 +27,7 @@ The forEach method executes a function for each element in the array.
 ## sort method
 The sort method modifies the array by ordering the array and returns the sorted array. The default sort is ascending.
 - Time Complexity: 0(n log(n))
-- 3 Examples: sort.js
+- 3 Examples: [sort.js](https://github.com/dyarawilliams/js-methods-work/blob/main/sort.js)
 
 ## slice method
 The slice method returns a copy of the sub array between two indexes, start and end. The original array will not be modified.
