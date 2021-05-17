@@ -5,24 +5,24 @@ A short description of what the method does, how it works, it's time complexity,
 The map method transforms an array by creating a new array of the elements and returns the results of the provided function on every element in the calling array. This method takes can take in up to three arguments the element, index, and array. The element param is required.
 
 - Time Complexity: 0(n)
-- 3 Examples: map.js
+- 3 Examples: [map.js](https://github.com/dyarawilliams/js-methods-work/blob/main/map.js)
 
 ## reduce method
 The reduce method executes a reducer function on each element of an array. This method can take in up to four arguments the accumulator, current value, current index, and the source array. The accumulator and currentValue is required.
 
 - Time Complexity: 0(n)
-- 3 Examples: reduce.js
+- 3 Examples: [reduce.js](https://github.com/dyarawilliams/js-methods-work/blob/main/reduce.js)
 
 ## filter method
 The filter method creates a new array with the elements that pass the given filter condiion as true.
 
 - Time Complexity: 0(n)
-- 3 Examples: filter.js
+- 3 Examples: [filter.js](https://github.com/dyarawilliams/js-methods-work/blob/main/filter.js)
 
 ## forEach method
 The forEach method executes a function for each element in the array.
 - Time Complexity: 0(n)
-- 3 Examples: forEach.js
+- 3 Examples: [forEach.js](https://github.com/dyarawilliams/js-methods-work/blob/main/forEach.js)
 
 ## sort method
 The sort method modifies the array by ordering the array and returns the sorted array. The default sort is ascending.
