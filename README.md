@@ -32,27 +32,27 @@ The sort method modifies the array by ordering the array and returns the sorted 
 ## slice method
 The slice method returns a copy of the sub array between two indexes, start and end. The original array will not be modified.
 - Time Complexity: 0(n)
-- 3 Examples: slice.js
+- 3 Examples: [slice.js](https://github.com/dyarawilliams/js-methods-work/blob/main/slice.js)
 
 ## pop method
 The pop method deletes the last element of the array.
 - Time Complexity: 0(1)
-- 3 Examples: pop.js
+- 3 Examples: [pop.js](https://github.com/dyarawilliams/js-methods-work/blob/main/pop.js)
 
 ## shift method
 The shift method deletes the first element of the array.
 - Time Complexity: 0(n)
-- 3 Examples: shift.js
+- 3 Examples: [shift.js](https://github.com/dyarawilliams/js-methods-work/blob/main/shift.js)
 
 ## push method
 The push method adds a new element to the end of the array.
 - Time Complexity: 0(1)
-- 3 Examples: push.js
+- 3 Examples: [push.js](https://github.com/dyarawilliams/js-methods-work/blob/main/push.js)
 
 ## unshift method
 The unshift method adds a new element to the beginning of the array.
 - Time Complexity: 0(n)
-- 3 Examples: unshift.js
+- 3 Examples: [unshift.js](https://github.com/dyarawilliams/js-methods-work/blob/main/unshift.js)
 
 ## includes method
 The includes method 
