@@ -55,17 +55,17 @@ The unshift method adds a new element to the beginning of the array.
 - 3 Examples: [unshift.js](https://github.com/dyarawilliams/js-methods-work/blob/main/unshift.js)
 
 ## includes method
-The includes method 
+The includes method determines whether an array includes a certain value. This method returns ture or false as appropriate
 - Time Complexity: 0(1)
-- 3 Examples: includes.js
+- 3 Examples: [includes.js](https://github.com/dyarawilliams/js-methods-work/blob/main/includes.js)
 
 ## indexOf method
 The indexOf method returns the first index of the element that exists in the array, and if it does not exist return -1.
 - Time Complexity: 0(n)
-- 3 Examples: indexOf.js
+- 3 Examples: [indexOf.js](https://github.com/dyarawilliams/js-methods-work/blob/main/indexOf.js)
 
 ## every method
 The every method return a boolean value as true if all the items apply the given condiion, and false if not.
 - Time Complexity: 0(n)
-- 3 Examples: every.js
+- 3 Examples: [every.js](https://github.com/dyarawilliams/js-methods-work/blob/main/every.js)
 
