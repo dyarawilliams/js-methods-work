@@ -76,5 +76,5 @@ The charAt method returns character at given index of string. This method takes 
 
 ## charCodeAt method 
 The charCodeAt method returns an integer between 0 and 65535, the Unicode of the character at the specified index in a string. This method takes in one argument the index. 
-- Time Complexity: 
+- Time Complexity: 0(1)
 - 3 Examples: [charCodeAt.js](https://github.com/dyarawilliams/js-methods-work/blob/main/charCodeAt.js)
