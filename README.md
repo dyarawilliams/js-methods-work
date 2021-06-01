@@ -69,3 +69,7 @@ The every method return a boolean value as true if all the items apply the given
 - Time Complexity: 0(n)
 - 3 Examples: [every.js](https://github.com/dyarawilliams/js-methods-work/blob/main/every.js)
 
+## charAt method
+The charAt method returns character at given index of string. This method takes in one argument which is the index.
+- Time Complexity: 0(1)
+- 3 Examples: [charAt.js](https://github.com/dyarawilliams/js-methods-work/blob/main/charAt.js)
