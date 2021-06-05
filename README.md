@@ -83,3 +83,12 @@ The charCodeAt method returns an integer between 0 and 65535, the Unicode of the
 The concat method is used to join two or more strings together (concatenation).
 - Time Complexity: 0(n)
 - 3 Examples: [concat.js](https://github.com/dyarawilliams/js-methods-work/blob/main/concat.js)
+
+## match method 
+The match method is used to search a string for a match against any regular expression. If the match is found, then this will return the match as an array.
+> If the g flag is used, all results matching the complete regular expression will be returned, but capturing groups will not.
+
+> If the g flag is not used, only the first complete match and its related capturing groups are returned. 
+
+- Time Complexity: 0(n)
+- 3 Examples: [match.js](https://github.com/dyarawilliams/js-methods-work/blob/main/match.js)
