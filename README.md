@@ -102,3 +102,8 @@ The repeat method is used to repeat a string a specified number of times.
 The replace method returns a new string with with a substring replaced by a new one.
 - Time Complexity: 0(n)
 - 3 Examples: [replace.js](https://github.com/dyarawilliams/js-methods-work/blob/main/replace.js)
+
+## search method
+The search method is used to search for a specific string or regular expression.
+- Time Complexity: 0(n)
+- 3 Examples: [search.js](https://github.com/dyarawilliams/js-methods-work/blob/main/search.js)
