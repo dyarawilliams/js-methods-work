@@ -92,3 +92,8 @@ The match method is used to search a string for a match against any regular expr
 
 - Time Complexity: 0(n)
 - 3 Examples: [match.js](https://github.com/dyarawilliams/js-methods-work/blob/main/match.js)
+
+## repeat method
+The repeat method is used to repeat a string a specified number of times.
+- Time Complexity: O(log n) ? -> I think because the size of input is reduced in each step it would logarithmic 
+- 3 Examples: [repeat.js](https://github.com/dyarawilliams/js-methods-work/blob/main/repeat.js)
