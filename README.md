@@ -107,3 +107,8 @@ The replace method returns a new string with with a substring replaced by a new 
 The search method is used to search for a specific string or regular expression.
 - Time Complexity: 0(n)
 - 3 Examples: [search.js](https://github.com/dyarawilliams/js-methods-work/blob/main/search.js)
+
+## split method
+The split method separates an original string into an array of substrings, based on a separator string that you pass as input. The original string is not altered by the split method.
+- Time Complexity: O(n)
+- 3 Examples: [split.js](https://github.com/dyarawilliams/js-methods-work/blob/main/split.js)
