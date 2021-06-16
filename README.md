@@ -112,3 +112,8 @@ The search method is used to search for a specific string or regular expression.
 The split method separates an original string into an array of substrings, based on a separator string that you pass as input. The original string is not altered by the split method.
 - Time Complexity: O(n)
 - 3 Examples: [split.js](https://github.com/dyarawilliams/js-methods-work/blob/main/split.js)
+
+## substr method 
+The substr method method returns a portion of the string, starting at the specified index and extending for a given number of characters afterwards.
+- Time Complexity: 0(n)
+- 3 Examples: [substr.js](https://github.com/dyarawilliams/js-methods-work/blob/main/substr.js)
