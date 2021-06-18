@@ -117,3 +117,13 @@ The split method separates an original string into an array of substrings, based
 The substr method method returns a portion of the string, starting at the specified index and extending for a given number of characters afterwards.
 - Time Complexity: 0(n)
 - 3 Examples: [substr.js](https://github.com/dyarawilliams/js-methods-work/blob/main/substr.js)
+
+## toLowerCase method
+The toLowerCase method returns the calling string value converted to lower case
+- Time Complexity: 0(n)
+- 3 Examples: [toLowerCase.js](https://github.com/dyarawilliams/js-methods-work/blob/main/toLowerCase.js)
+
+## toUpperCase method
+The toUpperCase method returns the calling string value converted to upper case
+- Time Complexity: 0(n)
+- 3 Examples: [toUpperCase.js](https://github.com/dyarawilliams/js-methods-work/blob/main/toUpperCase.js)
