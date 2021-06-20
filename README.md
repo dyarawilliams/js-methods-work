@@ -127,3 +127,8 @@ The toLowerCase method returns the calling string value converted to lower case
 The toUpperCase method returns the calling string value converted to upper case
 - Time Complexity: 0(n)
 - 3 Examples: [toUpperCase.js](https://github.com/dyarawilliams/js-methods-work/blob/main/toUpperCase.js)
+
+## trim method 
+The trim method removes whitespace from both ends of a string.
+- Time Complexity: 0(n)
+- 3 Examples: [trim.js](https://github.com/dyarawilliams/js-methods-work/blob/main/trim.js)
